@@ -1,4 +1,4 @@
 {
-  "editable": ["app.js"],
+  "editable": ["hello.js"],
   "test": "mocha test.js"
 }
